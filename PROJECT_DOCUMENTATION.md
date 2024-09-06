@@ -6,7 +6,7 @@
 ## Team Members:
 Name 1
 Name 2
-Name 3
+Rubalpreet Kaur Brar
 
 ## Member Contributions:
 
